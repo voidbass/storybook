@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -70,3 +70,34 @@ patch:
         patched: '2018-10-16T09:11:57.220Z'
     - gatsby-plugin-sharp > imagemin-mozjpeg > mozjpeg > bin-wrapper > download > caw > tunnel-agent:
         patched: '2018-10-16T09:11:57.220Z'
+  SNYK-JS-LODASH-567746:
+    - '@storybook/components > @storybook/csf > lodash':
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: '@storybook/components > @storybook/csf > lodash'
+    - gatsby > @sigmacomputing/babel-plugin-lodash > lodash:
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby > @sigmacomputing/babel-plugin-lodash > lodash
+    - gatsby > devcert > lodash:
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby > devcert > lodash
+    - gatsby > eslint-plugin-flowtype > lodash:
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: gatsby > eslint-plugin-flowtype > lodash
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/preset-modules > @babel/types > lodash:
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          gatsby > babel-preset-gatsby > @babel/preset-env >
+          @babel/preset-modules > @babel/types > lodash
+    - gatsby > @graphql-codegen/typescript > @graphql-codegen/visitor-plugin-common > @graphql-tools/relay-operation-optimizer > @ardatan/relay-compiler > @babel/types > lodash:
+        patched: '2024-02-15T08:59:18.578Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          gatsby > @graphql-codegen/typescript >
+          @graphql-codegen/visitor-plugin-common >
+          @graphql-tools/relay-operation-optimizer > @ardatan/relay-compiler >
+          @babel/types > lodash
