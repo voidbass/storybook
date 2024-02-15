@@ -12,7 +12,9 @@
   "scripts": {
     "build": "gatsby build --prefix-paths && cp static/**/* ./public",
     "dev": "gatsby develop",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "@storybook/components": "6.2.0",
@@ -49,6 +51,8 @@
     "sitemap": "^4.1.1",
     "styled-components": "^4.4.1",
     "ts-dedent": "^1.1.0",
-    "validatorjs": "^3.18.0"
-  }
+    "validatorjs": "^3.18.0",
+    "@snyk/protect": "latest"
+  },
+  "snyk": true
 }
