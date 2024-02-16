@@ -19,7 +19,7 @@
     "@storybook/theming": "5.2.5",
     "babel-loader": "^7.0.0",
     "babel-plugin-styled-components": "^1.10.6",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.2",
     "gatsby": "^5.0.0",
     "gatsby-link": "^1.6.45",
     "gatsby-plugin-segment": "^1.0.2",
