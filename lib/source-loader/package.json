@@ -31,11 +31,11 @@
   "dependencies": {
     "@storybook/addons": "6.0.0-alpha.20",
     "@storybook/client-logger": "6.0.0-alpha.20",
-    "@storybook/csf": "0.0.1",
+    "@storybook/csf": "0.1.0",
     "core-js": "^3.0.1",
     "estraverse": "^4.2.0",
     "global": "^4.3.2",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^3.0.0",
     "prettier": "^1.16.4",
     "regenerator-runtime": "^0.13.3"
   },
