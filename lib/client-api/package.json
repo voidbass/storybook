@@ -33,7 +33,7 @@
     "@storybook/channels": "6.0.0-alpha.20",
     "@storybook/client-logger": "6.0.0-alpha.20",
     "@storybook/core-events": "6.0.0-alpha.20",
-    "@storybook/csf": "0.0.1",
+    "@storybook/csf": "0.1.0",
     "@types/webpack-env": "^1.15.1",
     "core-js": "^3.0.1",
     "eventemitter3": "^4.0.0",
