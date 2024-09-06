@@ -29,16 +29,16 @@
     "prepare": "node ../../../scripts/prepare.js"
   },
   "dependencies": {
-    "@storybook/csf": "0.0.1",
+    "@storybook/csf": "0.1.0",
     "@storybook/node-logger": "6.0.0-alpha.20",
     "@types/jest-image-snapshot": "^2.8.0",
     "@wordpress/jest-puppeteer-axe": "^1.5.0",
     "core-js": "^3.0.1",
-    "jest-image-snapshot": "^2.8.2",
+    "jest-image-snapshot": "^6.1.1",
     "regenerator-runtime": "^0.13.3"
   },
   "devDependencies": {
-    "@storybook/csf": "0.0.1",
+    "@storybook/csf": "0.1.0",
     "@types/puppeteer": "^2.0.0"
   },
   "peerDependencies": {
