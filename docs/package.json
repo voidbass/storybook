@@ -15,10 +15,10 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@storybook/components": "6.2.0",
-    "@storybook/theming": "5.2.5",
-    "babel-loader": "^7.0.0",
-    "babel-plugin-styled-components": "^1.10.6",
+    "@storybook/components": "7.0.1",
+    "@storybook/theming": "6.5.0",
+    "babel-loader": "^9.0.0",
+    "babel-plugin-styled-components": "^2.1.1",
     "bootstrap": "^4.3.1",
     "gatsby": "^5.0.0",
     "gatsby-link": "^1.6.45",
@@ -47,7 +47,7 @@
     "react-stack-grid": "^0.7.1",
     "recompose": "^0.30.0",
     "sitemap": "^4.1.1",
-    "styled-components": "^4.4.1",
+    "styled-components": "^6.1.0",
     "ts-dedent": "^1.1.0",
     "validatorjs": "^3.18.0"
   }
