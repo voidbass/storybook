@@ -28,7 +28,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
+    "@emotion/core": "^11.0.0",
     "@storybook/addons": "6.0.0-alpha.20",
     "@storybook/api": "6.0.0-alpha.20",
     "@storybook/channels": "6.0.0-alpha.20",
@@ -60,7 +60,7 @@
     "resolve-from": "^5.0.0",
     "semver": "^6.0.0",
     "store2": "^2.7.1",
-    "telejson": "^3.2.0",
+    "telejson": "^5.1.1",
     "util-deprecate": "^1.0.2"
   },
   "devDependencies": {
