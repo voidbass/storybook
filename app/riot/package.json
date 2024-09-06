@@ -37,7 +37,7 @@
     "@storybook/core": "6.0.0-alpha.20",
     "core-js": "^3.0.1",
     "global": "^4.3.2",
-    "raw-loader": "^4.0.0",
+    "raw-loader": "^4.0.2",
     "regenerator-runtime": "^0.13.3",
     "ts-dedent": "^1.1.1"
   },
