@@ -31,7 +31,7 @@
     "@storybook/channels": "6.0.0-alpha.20",
     "@storybook/client-logger": "6.0.0-alpha.20",
     "@storybook/core-events": "6.0.0-alpha.20",
-    "@storybook/csf": "0.0.1",
+    "@storybook/csf": "0.1.0",
     "@storybook/router": "6.0.0-alpha.20",
     "@storybook/theming": "6.0.0-alpha.20",
     "@types/reach__router": "^1.2.3",
@@ -44,7 +44,7 @@
     "regenerator-runtime": "^0.13.3",
     "semver": "^6.0.0",
     "store2": "^2.7.1",
-    "telejson": "^3.2.0",
+    "telejson": "^5.1.1",
     "ts-dedent": "^1.1.1",
     "util-deprecate": "^1.0.2"
   },
