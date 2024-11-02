@@ -75,7 +75,7 @@
     "ts-dedent": "^1.1.1",
     "util-deprecate": "^1.0.2",
     "vue-docgen-api": "^4.7.0",
-    "vue-docgen-loader": "^1.4.0"
+    "vue-docgen-loader": "^2.0.1"
   },
   "devDependencies": {
     "@angular/core": "^8.2.8",
