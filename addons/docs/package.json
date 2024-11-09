@@ -43,7 +43,7 @@
     "@babel/preset-env": "^7.8.4",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
     "@egoist/vue-to-react": "^1.1.0",
-    "@jest/transform": "^25.1.0",
+    "@jest/transform": "^27.0.0",
     "@mdx-js/loader": "^1.5.1",
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
