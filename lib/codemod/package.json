@@ -33,7 +33,7 @@
     "@storybook/node-logger": "6.0.0-alpha.20",
     "core-js": "^3.0.1",
     "cross-spawn": "^7.0.0",
-    "globby": "^11.0.0",
+    "globby": "^14.1.0",
     "jest-specific-snapshot": "^2.0.0",
     "jscodeshift": "^0.7.0",
     "lodash": "^4.17.15",
