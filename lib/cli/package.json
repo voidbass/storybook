@@ -37,7 +37,7 @@
     "test-yarn-2": "cd test && ./run_tests_yarn_2.sh"
   },
   "dependencies": {
-    "@babel/core": "^7.8.4",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.8.4",
     "@storybook/codemod": "6.0.0-alpha.20",
     "chalk": "^3.0.0",
