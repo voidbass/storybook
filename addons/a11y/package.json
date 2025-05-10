@@ -45,7 +45,7 @@
     "global": "^4.3.2",
     "memoizerific": "^1.11.3",
     "react": "^16.8.3",
-    "react-redux": "^7.0.2",
+    "react-redux": "^9.0.0",
     "react-sizeme": "^2.5.2",
     "redux": "^4.0.1",
     "regenerator-runtime": "^0.13.3",
