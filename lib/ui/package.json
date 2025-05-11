@@ -28,7 +28,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
+    "@emotion/core": "^11.0.0",
     "@storybook/addons": "6.0.0-alpha.20",
     "@storybook/api": "6.0.0-alpha.20",
     "@storybook/channels": "6.0.0-alpha.20",
@@ -41,7 +41,7 @@
     "copy-to-clipboard": "^3.0.8",
     "core-js": "^3.0.1",
     "core-js-pure": "^3.0.1",
-    "emotion-theming": "^10.0.19",
+    "emotion-theming": "^11.0.0",
     "fast-deep-equal": "^3.1.1",
     "fuse.js": "^3.4.6",
     "global": "^4.3.2",
@@ -53,7 +53,7 @@
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-draggable": "^4.0.3",
-    "react-helmet-async": "^1.0.2",
+    "react-helmet-async": "^2.0.0",
     "react-hotkeys": "2.0.0",
     "react-sizeme": "^2.6.7",
     "regenerator-runtime": "^0.13.3",
