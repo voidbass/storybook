@@ -47,7 +47,7 @@
     "qs": "^6.6.0",
     "react-color": "^2.17.0",
     "react-lifecycles-compat": "^3.0.4",
-    "react-select": "^3.0.8",
+    "react-select": "^4.0.0",
     "regenerator-runtime": "^0.13.3"
   },
   "devDependencies": {
