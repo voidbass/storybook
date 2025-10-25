@@ -42,7 +42,7 @@
     "prettier": "^1.16.4",
     "prop-types": "^15.7.2",
     "react": "^16.9.17",
-    "react-syntax-highlighter": "^11.0.2",
+    "react-syntax-highlighter": "^16.0.0",
     "regenerator-runtime": "^0.13.3",
     "util-deprecate": "^1.0.2"
   },
